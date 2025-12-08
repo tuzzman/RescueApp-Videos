@@ -1,6 +1,6 @@
 {
-  "version": "2025-12-08T20-36-20-857Z",
-  "generatedAt": "2025-12-08T20:36:20.857Z",
+  "version": "2025-12-08T21-20-30-157Z",
+  "generatedAt": "2025-12-08T21:20:30.157Z",
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
@@ -234,6 +234,15 @@
       "clipId": "schindler_gen3_two-speed_rake",
       "title": "RAKE PICK (ALTERNATE METHOD)",
       "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_rake.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__schindler_gen4_two-speed_side",
+      "manufacturer": "Schindler (Gen 4)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "schindler_gen4_two-speed_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_pick.mp4",
       "available": true
     },
     {
