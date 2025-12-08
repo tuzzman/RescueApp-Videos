@@ -1,6 +1,6 @@
 {
-  "version": "2025-12-08T03-26-49-180Z",
-  "generatedAt": "2025-12-08T03:26:49.180Z",
+  "version": "2025-12-08T05-15-43-394Z",
+  "generatedAt": "2025-12-08T05:15:43.394Z",
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
@@ -8,7 +8,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "otis-gen1-center-side",
       "title": "Side Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen1_center_side.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_center_side.mp4",
       "available": true
     },
     {
@@ -17,7 +17,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "otis_gen1_center_Opt2",
       "title": "Option 2",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen1_center_opt2.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_center_opt2.mp4",
       "available": true
     },
     {
@@ -26,7 +26,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "otis_gen1_single_side",
       "title": "Side Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen1_single_side.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_single_side.mp4",
       "available": true
     },
     {
@@ -35,7 +35,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "Otis_Gen1_Two-Speed_Side",
       "title": "Side Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen1_twospeed_side.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_twospeed_side.mp4",
       "available": true
     },
     {
@@ -44,7 +44,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "otis_gen2_center_double-lock_rake",
       "title": "Double Lock Rake Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen2_center_doublelock_rake.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_center_doublelock_rake.mp4",
       "available": true
     },
     {
@@ -53,7 +53,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "otis_gen2_center_rake",
       "title": "Rake Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen2_center_rake.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_center_rake.mp4",
       "available": true
     },
     {
@@ -62,7 +62,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "otis_gen2_single_rake",
       "title": "Rake",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen2_single_rake.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_single_rake.mp4",
       "available": true
     },
     {
@@ -71,7 +71,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "otis_gen2_two-speed_rake",
       "title": "Rake Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen2_twospeed_rake.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_twospeed_rake.mp4",
       "available": true
     },
     {
@@ -80,7 +80,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "otis_gen2_two-speed_top_opt",
       "title": "Top Pick",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_gen2_twospeed_top_opt2.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_twospeed_top_opt2.mp4",
       "available": true
     },
     {
@@ -89,7 +89,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "kone_center_center_pick",
       "title": "Center Pick",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_center_centerpick.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_center_centerpick.mp4",
       "available": true
     },
     {
@@ -98,7 +98,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "kone_single_rt_hook",
       "title": "Right Hook",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_single_slide_rt_hook.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_hook.mp4",
       "available": true
     },
     {
@@ -107,7 +107,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "kone_single_lt-hook",
       "title": "Left Hook",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_single_slide_lt_hook.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_lt_hook.mp4",
       "available": true
     },
     {
@@ -116,7 +116,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "gal_center_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/GAL/gal_center_side.mp4",
+      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
       "available": true
     },
     {
@@ -125,7 +125,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "kone_single_rt_side",
       "title": "Right Side Pick",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_single_slide_rt_side.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_side.mp4",
       "available": true
     },
     {
@@ -134,7 +134,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_lt_hook",
       "title": "Left Hook",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_two_speed_lt_hook.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_hook.mp4",
       "available": true
     },
     {
@@ -143,7 +143,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_lt_side",
       "title": "Left Side Pick",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_two_speed_lt_side.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_side.mp4",
       "available": true
     },
     {
@@ -152,7 +152,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_rt_hook",
       "title": "Right Hook",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_two_speed_rt_hook.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_hook.mp4",
       "available": true
     },
     {
@@ -161,7 +161,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_rt_side",
       "title": "Right Side Pick",
-      "url": "http://192.168.0.182:5178/videos/KONE/kone_two_speed_rt_side.mp4",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_side.mp4",
       "available": true
     },
     {
@@ -170,7 +170,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "otis_center_linkage_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/OTIS/otis_center_linkage_side.mp4",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_center_linkage_side.mp4",
       "available": true
     },
     {
@@ -179,7 +179,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "schindler_gen1_center_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen1_center_top.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_center_top.mp4",
       "available": true
     },
     {
@@ -188,7 +188,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen1_two-speed_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen1_two-speed_top.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_two-speed_top.mp4",
       "available": true
     },
     {
@@ -197,7 +197,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "schindler_gen1_single_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen1_single_top.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_single_top.mp4",
       "available": true
     },
     {
@@ -206,7 +206,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "schindler_gen2_center_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen2_center_top.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen2_center_top.mp4",
       "available": true
     },
     {
@@ -215,7 +215,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "schindler_gen2_center_side_opt2",
       "title": "SIDE PICK OPT2",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen2_center_side_opt_2.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen2_center_side_opt_2.mp4",
       "available": true
     },
     {
@@ -224,7 +224,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen3_two-speed_Konehook",
       "title": "KONE HOOK PICK",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen3_two-speed_kone_side.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_kone_side.mp4",
       "available": true
     },
     {
@@ -233,7 +233,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen3_two-speed_rake",
       "title": "RAKE PICK (ALTERNATE METHOD)",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen3_two-speed_rake.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_rake.mp4",
       "available": true
     },
     {
@@ -242,7 +242,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen4_two-speed_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen4_side_pick.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_pick.mp4",
       "available": true
     },
     {
@@ -251,7 +251,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen4_two-speed_side_opt2",
       "title": "SIDE PICK (OPT2)",
-      "url": "http://192.168.0.182:5178/videos/SCHINDLER/schindler_gen4_side_opt_2.mp4",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_opt_2.mp4",
       "available": true
     },
     {
@@ -260,7 +260,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "thyssenkrupp_gen1_center_no_plate_top",
       "title": "TOP PICK (NO PLATE)",
-      "url": "http://192.168.0.182:5178/videos/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
       "available": true
     },
     {
@@ -269,7 +269,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "thyssenkrupp_gen2_center_w_plate_top",
       "title": "TOP PICK (w/plate)",
-      "url": "http://192.168.0.182:5178/videos/THYSSENKRUPP/thyssenkrupp_gen2_center_w__plate_top.mp4",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen2_center_w__plate_top.mp4",
       "available": true
     },
     {
@@ -278,7 +278,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "thyssenkrupp_gen3_center_hook",
       "title": "HOOK PICK",
-      "url": "http://192.168.0.182:5178/videos/THYSSENKRUPP/thyssenkrupp-gen3_center_hook.mp4",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp-gen3_center_hook.mp4",
       "available": true
     },
     {
@@ -287,7 +287,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "mitsubishi_center_no_linkage_top",
       "title": "TOP PICK (NO LINKAGE)",
-      "url": "http://192.168.0.182:5178/videos/MITSUBISHI/mitsubishi_center_no_linkage_top.mp4",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_no_linkage_top.mp4",
       "available": true
     },
     {
@@ -296,7 +296,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "mitsubishi_center_w_linkage_top",
       "title": "TOP PICK (w/Linkage)",
-      "url": "http://192.168.0.182:5178/videos/MITSUBISHI/mitsubishi_center_w__linkage_top.mp4",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_w__linkage_top.mp4",
       "available": true
     },
     {
@@ -305,7 +305,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "mitsubishi_center_w_linkage_side",
       "title": "SIDE PICK (W/LINKAGE)",
-      "url": "http://192.168.0.182:5178/videos/MITSUBISHI/mitsubishi_center_w__linkage_side.mp4",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_w__linkage_side.mp4",
       "available": true
     },
     {
@@ -314,7 +314,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "mitsubishi_two-speed_w_linkage_top",
       "title": "TOP PICK (W/LINKAGE)",
-      "url": "http://192.168.0.182:5178/videos/MITSUBISHI/mitsubishi_two-speed_w__linkage_top.mp4",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_two-speed_w__linkage_top.mp4",
       "available": true
     },
     {
@@ -323,7 +323,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "mitsubishi_two-speed_w_linkage_side",
       "title": "SIDE PICK (W/LINKAGE)",
-      "url": "http://192.168.0.182:5178/videos/MITSUBISHI/mitsubishi_two-speed_w__linkage_side.mp4",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_two-speed_w__linkage_side.mp4",
       "available": true
     },
     {
@@ -332,7 +332,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "fujitec_center_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/FUJITEC/fujitec_center_side.mp4",
+      "url": "https://rescue.tuzzco.net/FUJITEC/fujitec_center_side.mp4",
       "available": true
     },
     {
@@ -341,7 +341,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "westinghouse_center_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/WESTINGHOUSE/westinghouse_center_side.mp4",
+      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_center_side.mp4",
       "available": true
     },
     {
@@ -350,7 +350,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "westinghouse_center_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/WESTINGHOUSE/westinghouse_center_top.mp4",
+      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_center_top.mp4",
       "available": true
     },
     {
@@ -359,7 +359,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "westinghouse_two-speed_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/WESTINGHOUSE/westinghouse_two-speed_side.mp4",
+      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_two-speed_side.mp4",
       "available": true
     },
     {
@@ -368,7 +368,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "bi-parting_freight",
       "title": "BI-PARTING FREIGHT",
-      "url": "http://192.168.0.182:5178/videos/BI-PARTING/bi-parting_freight.mp4",
+      "url": "https://rescue.tuzzco.net/BI-PARTING/bi-parting_freight.mp4",
       "available": true
     },
     {
@@ -377,7 +377,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "gal_center_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/GAL/gal_center_top.mp4",
+      "url": "https://rescue.tuzzco.net/GAL/gal_center_top.mp4",
       "available": true
     },
     {
@@ -386,7 +386,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "gal_single_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/GAL/gal_single_side.mp4",
+      "url": "https://rescue.tuzzco.net/GAL/gal_single_side.mp4",
       "available": true
     },
     {
@@ -395,7 +395,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "gal_single_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/GAL/gal_single_top.mp4",
+      "url": "https://rescue.tuzzco.net/GAL/gal_single_top.mp4",
       "available": true
     },
     {
@@ -404,7 +404,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "gal_two-speed_side",
       "title": "SIDE PICK",
-      "url": "http://192.168.0.182:5178/videos/GAL/gal_two-speed_side.mp4",
+      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_side.mp4",
       "available": true
     },
     {
@@ -413,7 +413,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "gal_two-speed_top",
       "title": "TOP PICK",
-      "url": "http://192.168.0.182:5178/videos/GAL/gal_two-speed_top.mp4",
+      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_top.mp4",
       "available": true
     }
   ]
