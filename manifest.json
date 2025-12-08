@@ -1,6 +1,6 @@
 {
-  "version": "2025-12-08T21-53-38-578Z",
-  "generatedAt": "2025-12-08T21:53:38.578Z",
+  "version": "2025-12-08T22-03-32-045Z",
+  "generatedAt": "2025-12-08T22:03:32.045Z",
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
@@ -387,33 +387,6 @@
       "clipId": "gal_single_side",
       "title": "SIDE PICK",
       "url": "https://rescue.tuzzco.net/GAL/gal_single_side.mp4",
-      "available": true
-    },
-    {
-      "id": "Single-Slide__gal_single_top",
-      "manufacturer": "GAL",
-      "doorTypeId": "Single-Slide",
-      "clipId": "gal_single_top",
-      "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_single_top.mp4",
-      "available": true
-    },
-    {
-      "id": "Two-Speed__gal_two-speed_side",
-      "manufacturer": "GAL",
-      "doorTypeId": "Two-Speed",
-      "clipId": "gal_two-speed_side",
-      "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_side.mp4",
-      "available": true
-    },
-    {
-      "id": "Two-Speed__gal_two-speed_top",
-      "manufacturer": "GAL",
-      "doorTypeId": "Two-Speed",
-      "clipId": "gal_two-speed_top",
-      "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_top.mp4",
       "available": true
     }
   ]
