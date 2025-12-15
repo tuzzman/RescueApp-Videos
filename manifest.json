@@ -1,6 +1,6 @@
 {
-  "version": "2025-12-08T22-06-27-046Z",
-  "generatedAt": "2025-12-08T22:06:27.046Z",
+  "version": "2025-12-15T05-39-14-494Z",
+  "generatedAt": "2025-12-15T05:39:14.494Z",
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
@@ -252,15 +252,6 @@
       "clipId": "schindler_gen4_two-speed_side_opt2",
       "title": "SIDE PICK (OPT2)",
       "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_opt_2.mp4",
-      "available": true
-    },
-    {
-      "id": "Center-Opening__thyssenkrupp_gen1_center_no_plate_top",
-      "manufacturer": "ThyssenKrupp (Gen 1)",
-      "doorTypeId": "Center-Opening",
-      "clipId": "thyssenkrupp_gen1_center_no_plate_top",
-      "title": "TOP PICK (NO PLATE)",
-      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
       "available": true
     },
     {
