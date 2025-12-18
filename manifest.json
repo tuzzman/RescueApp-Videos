@@ -1,6 +1,6 @@
 {
-  "version": "2025-12-15T05-44-09-580Z",
-  "generatedAt": "2025-12-15T05:44:09.580Z",
+  "version": "2025-12-18T10-41-35-432Z",
+  "generatedAt": "2025-12-18T10:41:35.432Z",
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
@@ -405,6 +405,15 @@
       "clipId": "gal_two-speed_top",
       "title": "TOP PICK",
       "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__thyssenkrupp_center_no-plate_top",
+      "manufacturer": "ThyssenKrupp (Gen 1)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "thyssenkrupp_center_no-plate_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
       "available": true
     }
   ]
