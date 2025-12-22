@@ -1,0 +1,5 @@
+admin/
+subscription/
+videos/
+node_modules/
+.env
