@@ -1,16 +1,7 @@
 {
-  "version": "2025-12-22T06-44-54-569Z",
-  "generatedAt": "2025-12-22T06:44:54.569Z",
+  "version": "2025-12-22T06-54-33-920Z",
+  "generatedAt": "2025-12-22T06:54:33.920Z",
   "items": [
-    {
-      "id": "Center-Opening__otis-gen1-center-side",
-      "manufacturer": "Otis (Gen 1)",
-      "doorTypeId": "Center-Opening",
-      "clipId": "otis-gen1-center-side",
-      "title": "Side Pick",
-      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN1%20CENTER%20SIDE%20PICK.mp4?alt=media&token=cf45b584-066d-491f-b07d-d4cef0d03a54",
-      "available": true
-    },
     {
       "id": "Center-Opening__otis_gen1_center_Opt2",
       "manufacturer": "Otis (Gen 1)",
