@@ -1,6 +1,66 @@
 {
-  "version": "2025-12-22T07-17-32-874Z",
-  "generatedAt": "2025-12-22T07:17:32.874Z",
+  "version": "2026-01-02T03-36-42-620Z",
+  "generatedAt": "2026-01-02T03:36:42.620Z",
+  "manufacturers": [
+    {
+      "name": "GAL",
+      "id": "gal",
+      "generations": []
+    },
+    {
+      "name": "OTIS",
+      "id": "otis",
+      "generations": [
+        "Gen 1",
+        "Gen 2",
+        "w/Linkage"
+      ]
+    },
+    {
+      "name": "Kone",
+      "id": "kone",
+      "generations": []
+    },
+    {
+      "name": "Schindler",
+      "id": "schindler",
+      "generations": [
+        "Gen 1",
+        "Gen 2",
+        "Gen 3",
+        "Gen 4"
+      ]
+    },
+    {
+      "name": "ThyssenKrupp",
+      "id": "thyssenkrupp",
+      "generations": [
+        "Gen 1",
+        "Gen 2",
+        "Gen 3"
+      ]
+    },
+    {
+      "name": "Mitsubishi",
+      "id": "mitsubishi",
+      "generations": []
+    },
+    {
+      "name": "Westinghouse",
+      "id": "westinghouse",
+      "generations": []
+    },
+    {
+      "name": "Fujitec",
+      "id": "fujitec",
+      "generations": []
+    },
+    {
+      "name": "Bi-Parting Freight",
+      "id": "bi-parting-freight",
+      "generations": []
+    }
+  ],
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
@@ -108,15 +168,6 @@
       "clipId": "kone_single_lt-hook",
       "title": "Left Hook",
       "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_lt_hook.mp4",
-      "available": true
-    },
-    {
-      "id": "Center-Opening__gal_center_side",
-      "manufacturer": "GAL",
-      "doorTypeId": "Center-Opening",
-      "clipId": "gal_center_side",
-      "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
       "available": true
     },
     {
@@ -360,51 +411,6 @@
       "clipId": "bi-parting_freight",
       "title": "BI-PARTING FREIGHT",
       "url": "https://rescue.tuzzco.net/BI-PARTING/bi-parting_freight.mp4",
-      "available": true
-    },
-    {
-      "id": "Center-Opening__gal_center_top",
-      "manufacturer": "GAL",
-      "doorTypeId": "Center-Opening",
-      "clipId": "gal_center_top",
-      "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_top.mp4",
-      "available": true
-    },
-    {
-      "id": "Single-Slide__gal_single_side",
-      "manufacturer": "GAL",
-      "doorTypeId": "Single-Slide",
-      "clipId": "gal_single_side",
-      "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_single_side.mp4",
-      "available": true
-    },
-    {
-      "id": "Single-Slide__gal_single_top",
-      "manufacturer": "GAL",
-      "doorTypeId": "Single-Slide",
-      "clipId": "gal_single_top",
-      "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_single_top.mp4",
-      "available": true
-    },
-    {
-      "id": "Two-Speed__gal_two-speed_side",
-      "manufacturer": "GAL",
-      "doorTypeId": "Two-Speed",
-      "clipId": "gal_two-speed_side",
-      "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_side.mp4",
-      "available": true
-    },
-    {
-      "id": "Two-Speed__gal_two-speed_top",
-      "manufacturer": "GAL",
-      "doorTypeId": "Two-Speed",
-      "clipId": "gal_two-speed_top",
-      "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_top.mp4",
       "available": true
     },
     {
