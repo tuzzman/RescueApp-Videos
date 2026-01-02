@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-02T04-33-48-319Z",
-  "generatedAt": "2026-01-02T04:33:48.319Z",
+  "version": "2026-01-02T04-36-27-579Z",
+  "generatedAt": "2026-01-02T04:36:27.579Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -77,8 +77,7 @@
         "Gen 1",
         "Gen 2"
       ],
-      "logo": "🥩",
-      "pro": true
+      "logo": "🥩"
     }
   ],
   "items": [
