@@ -1,12 +1,7 @@
 {
-  "version": "2026-01-02T03-47-16-027Z",
-  "generatedAt": "2026-01-02T03:47:16.027Z",
+  "version": "2026-01-02T03-54-32-122Z",
+  "generatedAt": "2026-01-02T03:54:32.122Z",
   "manufacturers": [
-    {
-      "name": "GAL",
-      "id": "gal",
-      "generations": []
-    },
     {
       "name": "OTIS",
       "id": "otis",
@@ -15,6 +10,11 @@
         "Gen 2",
         "w/Linkage"
       ]
+    },
+    {
+      "name": "GAL",
+      "id": "gal",
+      "generations": []
     },
     {
       "name": "Kone",
@@ -144,12 +144,84 @@
       "available": true
     },
     {
+      "id": "Center-Opening__kone_center_center_pick",
+      "manufacturer": "Kone",
+      "doorTypeId": "Center-Opening",
+      "clipId": "kone_center_center_pick",
+      "title": "Center Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_center_centerpick.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_rt_hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_rt_hook",
+      "title": "Right Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_lt-hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_lt-hook",
+      "title": "Left Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_lt_hook.mp4",
+      "available": true
+    },
+    {
       "id": "Center-Opening__gal_center_side",
       "manufacturer": "GAL",
       "doorTypeId": "Center-Opening",
       "clipId": "gal_center_side",
       "title": "SIDE PICK",
       "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_rt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_rt_side",
+      "title": "Right Side Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_lt_hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_lt_hook",
+      "title": "Left Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_lt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_lt_side",
+      "title": "Left Side Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_rt_hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_rt_hook",
+      "title": "Right Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_rt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_rt_side",
+      "title": "Right Side Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_side.mp4",
       "available": true
     },
     {
