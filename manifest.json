@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-02T04-10-18-688Z",
-  "generatedAt": "2026-01-02T04:10:18.688Z",
+  "version": "2026-01-02T04-33-48-319Z",
+  "generatedAt": "2026-01-02T04:33:48.319Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -19,7 +19,8 @@
     {
       "name": "Kone",
       "id": "kone",
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Schindler",
@@ -38,7 +39,8 @@
         "Gen 1",
         "Gen 2",
         "Gen 3"
-      ]
+      ],
+      "pro": true
     },
     {
       "name": "Mitsubishi",
@@ -48,12 +50,14 @@
     {
       "name": "Westinghouse",
       "id": "westinghouse",
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Fujitec",
       "id": "fujitec",
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Bi-Parting Freight",
