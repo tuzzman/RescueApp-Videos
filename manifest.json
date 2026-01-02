@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-02T04-48-16-665Z",
-  "generatedAt": "2026-01-02T04:48:16.666Z",
+  "version": "2026-01-02T05-10-35-278Z",
+  "generatedAt": "2026-01-02T05:10:35.278Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -505,9 +505,9 @@
       "available": true
     },
     {
-      "id": "Single-Slide__china_gen1_single_top",
-      "manufacturer": "CHINA (Gen 1)",
-      "doorTypeId": "Single-Slide",
+      "id": "Two-Speed__china_gen1_single_top",
+      "manufacturer": "CHINA (Gen 2)",
+      "doorTypeId": "Two-Speed",
       "clipId": "china_gen1_single_top",
       "title": "TOP",
       "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
