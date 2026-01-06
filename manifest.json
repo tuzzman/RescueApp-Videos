@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-02T05-18-40-309Z",
-  "generatedAt": "2026-01-02T05:18:40.309Z",
+  "version": "2026-01-06T02-21-01-972Z",
+  "generatedAt": "2026-01-06T02:21:01.973Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -76,8 +76,7 @@
       "generations": [
         "Gen 1",
         "Gen 2"
-      ],
-      "logo": "🥩"
+      ]
     }
   ],
   "items": [
@@ -493,33 +492,6 @@
       "clipId": "thyssenkrupp_center_no-plate_top",
       "title": "TOP PICK",
       "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
-      "available": true
-    },
-    {
-      "id": "Center-Opening__Dover_center_top",
-      "manufacturer": "DOVER",
-      "doorTypeId": "Center-Opening",
-      "clipId": "Dover_center_top",
-      "title": "TOP",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
-      "available": true
-    },
-    {
-      "id": "Two-Speed__china_gen2_two-speed_top",
-      "manufacturer": "CHINA (Gen 2)",
-      "doorTypeId": "Two-Speed",
-      "clipId": "china_gen2_two-speed_top",
-      "title": "TOP",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
-      "available": true
-    },
-    {
-      "id": "Single-Slide__china_gen1_single_top",
-      "manufacturer": "CHINA (Gen 1)",
-      "doorTypeId": "Single-Slide",
-      "clipId": "china_gen1_single_top",
-      "title": "top",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
       "available": true
     }
   ]
