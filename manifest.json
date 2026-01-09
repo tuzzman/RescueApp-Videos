@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-09T04-41-27-500Z",
-  "generatedAt": "2026-01-09T04:41:27.500Z",
+  "version": "2026-01-09T04-49-58-886Z",
+  "generatedAt": "2026-01-09T04:49:58.886Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -19,8 +19,8 @@
     {
       "name": "Kone",
       "id": "kone",
-      "generations": [],
-      "pro": true
+      "requiresSubscription": false,
+      "generations": []
     },
     {
       "name": "Schindler",
