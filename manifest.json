@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-09T04-14-01-948Z",
-  "generatedAt": "2026-01-09T04:14:01.948Z",
+  "version": "2026-01-09T04-37-46-751Z",
+  "generatedAt": "2026-01-09T04:37:46.751Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -153,7 +153,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "kone_center_center_pick",
       "title": "Center Pick",
-      "url": "https://rescue.tuzzco.net/KONE/kone_center_centerpick.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FCENTER%20CENTER%20PICK.mp4?alt=media&token=54bb5d75-aa6b-4bcb-a4ab-62492b2e5236",
       "available": true
     },
     {
@@ -162,7 +162,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "kone_single_rt_hook",
       "title": "Right Hook",
-      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_hook.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FSINGLE%20RT%20HOOK%20PICK.mp4?alt=media&token=9dde195c-6c2c-4077-902f-b08e2c7faf55",
       "available": true
     },
     {
@@ -171,7 +171,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "kone_single_lt-hook",
       "title": "Left Hook",
-      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_lt_hook.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FSINGLE%20LT%20HOOK%20PICK.mp4?alt=media&token=65b18fde-5435-4df4-b136-7515d02f0f19",
       "available": true
     },
     {
@@ -189,7 +189,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "kone_single_rt_side",
       "title": "Right Side Pick",
-      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FSINGLE%20RT%20SIDE%20PICK.mp4?alt=media&token=68680f50-5cf3-4bad-9551-68c17f10089b",
       "available": true
     },
     {
@@ -198,7 +198,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_lt_hook",
       "title": "Left Hook",
-      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_hook.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FTWO-SPEED%20LT%20HOOK%20PICK.mp4?alt=media&token=6d2b4466-52bc-4dad-8c77-67298636cbf7",
       "available": true
     },
     {
@@ -207,7 +207,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_lt_side",
       "title": "Left Side Pick",
-      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FTWO-SPEED%20LT%20SIDE%20PICK.mp4?alt=media&token=f12a786f-1bdd-40fb-b8ab-d9928c572036",
       "available": true
     },
     {
@@ -216,7 +216,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_rt_hook",
       "title": "Right Hook",
-      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_hook.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FTWO-SPEED%20RT%20HOOK%20PICK.mp4?alt=media&token=785ea345-31d1-48c7-b3b1-08e861aff03f",
       "available": true
     },
     {
@@ -225,7 +225,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "kone_two-speed_rt_side",
       "title": "Right Side Pick",
-      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FTWO-SPEED%20RT%20SIDE%20PICK.mp4?alt=media&token=59dda3ed-71f1-46c3-92a2-41298ee510ec",
       "available": true
     },
     {
@@ -243,7 +243,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "schindler_gen1_center_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_center_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN1%20CENTER%20TOP%20PICK.mp4?alt=media&token=5c0f36e3-da5c-4fab-9f79-78246af83b27",
       "available": true
     },
     {
@@ -252,7 +252,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen1_two-speed_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_two-speed_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN1%20TWO-SPEED%20TOP%20PICK.mp4?alt=media&token=aeda137e-ff13-4b57-b15a-d063b5b49264",
       "available": true
     },
     {
@@ -261,7 +261,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "schindler_gen1_single_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_single_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN1%20SINGLE%20TOP%20PICK.mp4?alt=media&token=ebd78e43-5e7b-4122-a351-823b3e5c3983",
       "available": true
     },
     {
@@ -270,7 +270,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "schindler_gen2_center_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen2_center_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN2%20CENTER%20TOP%20PICK.mp4?alt=media&token=5132a3b0-f1e4-4d03-b544-adc358e7b01a",
       "available": true
     },
     {
@@ -279,7 +279,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "schindler_gen2_center_side_opt2",
       "title": "SIDE PICK OPT2",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen2_center_side_opt_2.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN2%20CENTER%20SIDE%20PICK%20OPT2.mp4?alt=media&token=525a0713-fcc7-4530-ac6c-335c4059ee45",
       "available": true
     },
     {
@@ -288,7 +288,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen3_two-speed_Konehook",
       "title": "KONE HOOK PICK",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_kone_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN3%20TWO-SPEED%20KONE%20SIDE%20PICK.mp4?alt=media&token=cbc2f404-2316-45c6-bf86-8b63b8e31228",
       "available": true
     },
     {
@@ -297,7 +297,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen3_two-speed_rake",
       "title": "RAKE PICK (ALTERNATE METHOD)",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_rake.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN3%20TWO-SPEED%20RAKE%20PICK.mp4?alt=media&token=80765c29-bd48-4725-a5da-96337aee533e",
       "available": true
     },
     {
@@ -306,7 +306,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen4_two-speed_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_pick.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN4%20TWO-SPEED%20SIDE%20PICK.mp4?alt=media&token=6b8c8fa9-d825-47f2-8419-221cb090a10a",
       "available": true
     },
     {
@@ -315,7 +315,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "schindler_gen4_two-speed_side_opt2",
       "title": "SIDE PICK (OPT2)",
-      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_opt_2.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FSchindler%2FGEN4%20TWO-SPEED%20SIDE%20PICK%20OPT2.mp4?alt=media&token=65c11da5-85c6-4c35-b4b3-967e769d9766",
       "available": true
     },
     {
@@ -324,7 +324,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "thyssenkrupp_gen2_center_w_plate_top",
       "title": "TOP PICK (w/plate)",
-      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen2_center_w__plate_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FThyssenKrupp%2FGEN2%20CENTER%20WITH%20PLATE%20TOP%20PICK.mp4?alt=media&token=70b4a09c-c17c-4930-b41a-80d574e1fda3",
       "available": true
     },
     {
@@ -333,7 +333,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "thyssenkrupp_gen3_center_hook",
       "title": "HOOK PICK",
-      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp-gen3_center_hook.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FThyssenKrupp%2FGEN3%20CENTER%20HOOK%20PICK.mp4?alt=media&token=70046a09-7cb5-4b6c-9596-834230550068",
       "available": true
     },
     {
@@ -342,7 +342,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "mitsubishi_center_no_linkage_top",
       "title": "TOP PICK (NO LINKAGE)",
-      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_no_linkage_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FMitsubishi%2FCENTER%20NO%20LINKAGE%20TOP%20PICK.mp4?alt=media&token=cab8aea5-0bcf-4ad7-a3bf-2780346a8a23",
       "available": true
     },
     {
@@ -351,7 +351,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "mitsubishi_center_w_linkage_top",
       "title": "TOP PICK (w/Linkage)",
-      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_w__linkage_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FMitsubishi%2FCENTER%20WITH%20LINKAGE%20%20TOP%20PICK.mp4?alt=media&token=0b988e9e-e1dc-4f6b-b71e-5e4e898582a4",
       "available": true
     },
     {
@@ -360,7 +360,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "mitsubishi_center_w_linkage_side",
       "title": "SIDE PICK (W/LINKAGE)",
-      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_w__linkage_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FMitsubishi%2FCENTER%20WITH%20LINKAGE%20SIDE%20PICK.mp4?alt=media&token=77922b48-14a8-4c21-92ee-2c2ba4ca4049",
       "available": true
     },
     {
@@ -369,7 +369,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "mitsubishi_two-speed_w_linkage_top",
       "title": "TOP PICK (W/LINKAGE)",
-      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_two-speed_w__linkage_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FMitsubishi%2FTWO-SPEED%20WITH%20LINKAGE%20TOP%20PICK.mp4?alt=media&token=ac0a5847-0af1-42ce-9a62-47ff07d6545f",
       "available": true
     },
     {
@@ -378,7 +378,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "mitsubishi_two-speed_w_linkage_side",
       "title": "SIDE PICK (W/LINKAGE)",
-      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_two-speed_w__linkage_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FMitsubishi%2FTWO-SPEED%20WITH%20LINKAGE%20SIDE%20PICK.mp4?alt=media&token=2c844be3-43af-4470-ad56-930191869ae2",
       "available": true
     },
     {
@@ -477,7 +477,16 @@
       "doorTypeId": "Center-Opening",
       "clipId": "thyssenkrupp_center_no-plate_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FThyssenKrupp%2FGEN1%20CENTER%20NO%20PLATE%20TOP%20PICK.mp4?alt=media&token=de37fad8-2431-4772-9c5e-69cae0b23813",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_lt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_lt_side",
+      "title": "Left Side Pick",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FKone%2FSINGLE%20LT%20SIDE%20PICK.mp4?alt=media&token=f171a39a-49e2-4267-b63d-c54bb2285d5d",
       "available": true
     }
   ]
