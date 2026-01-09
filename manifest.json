@@ -1,86 +1,150 @@
 {
-  "version": "2025-12-18T10-41-35-432Z",
-  "generatedAt": "2025-12-18T10:41:35.432Z",
+  "version": "2026-01-09T04-14-01-948Z",
+  "generatedAt": "2026-01-09T04:14:01.948Z",
+  "manufacturers": [
+    {
+      "name": "OTIS",
+      "id": "otis",
+      "generations": [
+        "Gen 1",
+        "Gen 2",
+        "w/Linkage"
+      ]
+    },
+    {
+      "name": "GAL",
+      "id": "gal",
+      "generations": []
+    },
+    {
+      "name": "Kone",
+      "id": "kone",
+      "generations": [],
+      "pro": true
+    },
+    {
+      "name": "Schindler",
+      "id": "schindler",
+      "generations": [
+        "Gen 1",
+        "Gen 2",
+        "Gen 3",
+        "Gen 4"
+      ]
+    },
+    {
+      "name": "ThyssenKrupp",
+      "id": "thyssenkrupp",
+      "generations": [
+        "Gen 1",
+        "Gen 2",
+        "Gen 3"
+      ],
+      "pro": true
+    },
+    {
+      "name": "Mitsubishi",
+      "id": "mitsubishi",
+      "generations": []
+    },
+    {
+      "name": "Westinghouse",
+      "id": "westinghouse",
+      "generations": [],
+      "pro": true
+    },
+    {
+      "name": "Fujitec",
+      "id": "fujitec",
+      "generations": [],
+      "pro": true
+    },
+    {
+      "name": "Bi-Parting Freight",
+      "id": "bi-parting-freight",
+      "generations": []
+    }
+  ],
   "items": [
     {
       "id": "Center-Opening__otis-gen1-center-side",
-      "manufacturer": "Otis (Gen 1)",
+      "manufacturer": "OTIS (Gen 1)",
       "doorTypeId": "Center-Opening",
       "clipId": "otis-gen1-center-side",
       "title": "Side Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_center_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN1%20CENTER%20SIDE%20PICK.mp4?alt=media&token=cf45b584-066d-491f-b07d-d4cef0d03a54",
       "available": true
     },
     {
       "id": "Center-Opening__otis_gen1_center_Opt2",
-      "manufacturer": "Otis (Gen 1)",
+      "manufacturer": "OTIS (Gen 1)",
       "doorTypeId": "Center-Opening",
       "clipId": "otis_gen1_center_Opt2",
       "title": "Option 2",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_center_opt2.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN1%20CENTER%20OPT2.mp4?alt=media&token=5896b68d-4220-40ad-8038-e2ec480af34d",
       "available": true
     },
     {
       "id": "Single-Slide__otis_gen1_single_side",
-      "manufacturer": "Otis (Gen 1)",
+      "manufacturer": "OTIS (Gen 1)",
       "doorTypeId": "Single-Slide",
       "clipId": "otis_gen1_single_side",
       "title": "Side Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_single_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN1%20SINGLE%20SIDE%20PICK.mp4?alt=media&token=05417dc5-dbc6-4112-bc17-be02bf410fa9",
       "available": true
     },
     {
       "id": "Two-Speed__Otis_Gen1_Two-Speed_Side",
-      "manufacturer": "Otis (Gen 1)",
+      "manufacturer": "OTIS (Gen 1)",
       "doorTypeId": "Two-Speed",
       "clipId": "Otis_Gen1_Two-Speed_Side",
       "title": "Side Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_twospeed_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN1%20TWO-SPEED%20SIDE%20PICK.mp4?alt=media&token=f5a511d2-7383-4f7d-9ff7-43952d061876",
       "available": true
     },
     {
       "id": "Center-Opening__otis_gen2_center_double-lock_rake",
-      "manufacturer": "Otis (Gen 2)",
+      "manufacturer": "OTIS (Gen 2)",
       "doorTypeId": "Center-Opening",
       "clipId": "otis_gen2_center_double-lock_rake",
       "title": "Double Lock Rake Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_center_doublelock_rake.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN2%20CENTER%20DOUBLE-LOCK%20RAKE%20PICK.mp4?alt=media&token=70e61392-5a10-4d56-bbb8-d0c5b3e866c5",
       "available": true
     },
     {
       "id": "Center-Opening__otis_gen2_center_rake",
-      "manufacturer": "Otis (Gen 2)",
+      "manufacturer": "OTIS (Gen 2)",
       "doorTypeId": "Center-Opening",
       "clipId": "otis_gen2_center_rake",
       "title": "Rake Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_center_rake.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN2%20CENTER%20RAKE%20PICK.mp4?alt=media&token=8708465e-2442-44bd-90f8-bf8e08149db5",
       "available": true
     },
     {
       "id": "Single-Slide__otis_gen2_single_rake",
-      "manufacturer": "Otis (Gen 2)",
+      "manufacturer": "OTIS (Gen 2)",
       "doorTypeId": "Single-Slide",
       "clipId": "otis_gen2_single_rake",
       "title": "Rake",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_single_rake.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN2%20SINGLE%20RAKE%20PICK.mp4?alt=media&token=6239e00e-ee6e-4a93-98c9-161438c8161f",
       "available": true
     },
     {
       "id": "Two-Speed__otis_gen2_two-speed_rake",
-      "manufacturer": "Otis (Gen 2)",
+      "manufacturer": "OTIS (Gen 2)",
       "doorTypeId": "Two-Speed",
       "clipId": "otis_gen2_two-speed_rake",
       "title": "Rake Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_twospeed_rake.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN2%20TWO-SPEED%20RAKE%20PICK.mp4?alt=media&token=ea323b0d-99ea-4aa1-9126-1fa3d663bad3",
       "available": true
     },
     {
       "id": "Two-Speed__otis_gen2_two-speed_top_opt",
-      "manufacturer": "Otis (Gen 2)",
+      "manufacturer": "OTIS (Gen 2)",
       "doorTypeId": "Two-Speed",
       "clipId": "otis_gen2_two-speed_top_opt",
-      "title": "Top Pick",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_twospeed_top_opt2.mp4",
+      "title": "Top Pick Opt2",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FGEN2%20TWO-SPEED%20TOP%20PICK%20OPT2.mp4?alt=media&token=6d55043e-8293-44c7-9acd-862e63dbb2da",
       "available": true
     },
     {
@@ -166,11 +230,11 @@
     },
     {
       "id": "Center-Opening__otis_center_linkage_side",
-      "manufacturer": "Otis (w/Linkage)",
+      "manufacturer": "OTIS (w/Linkage)",
       "doorTypeId": "Center-Opening",
       "clipId": "otis_center_linkage_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/OTIS/otis_center_linkage_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FOTIS%2FCENTER%20WITH%20LINKAGE%20SIDE%20PICK.mp4?alt=media&token=bdbacb68-932b-4c3e-a150-d45384908c19",
       "available": true
     },
     {
