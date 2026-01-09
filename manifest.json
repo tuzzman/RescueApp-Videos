@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-09T04-37-46-751Z",
-  "generatedAt": "2026-01-09T04:37:46.751Z",
+  "version": "2026-01-09T04-41-27-500Z",
+  "generatedAt": "2026-01-09T04:41:27.500Z",
   "manufacturers": [
     {
       "name": "OTIS",
@@ -180,7 +180,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "gal_center_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FGAL%2FCENTER%20SIDE%20PICK.mp4?alt=media&token=c846ae74-f611-43c0-bb54-44abccc8d290",
       "available": true
     },
     {
@@ -387,7 +387,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "fujitec_center_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/FUJITEC/fujitec_center_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FFUJITEC%2FCENTER%20SIDE%20PICK.mp4?alt=media&token=9eca412f-ba89-4cd3-add0-d68e71ef9bf3",
       "available": true
     },
     {
@@ -396,7 +396,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "westinghouse_center_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_center_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FWestinghouse%2FCENTER%20SIDE%20PICK.mp4?alt=media&token=0a8a15f7-ee89-4ed9-9dad-8cf2c7856fdb",
       "available": true
     },
     {
@@ -405,7 +405,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "westinghouse_center_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_center_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FWestinghouse%2FCENTER%20TOP%20PICK.mp4?alt=media&token=1ad8ec5b-1682-41e1-b234-dcf46263d50c",
       "available": true
     },
     {
@@ -414,7 +414,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "westinghouse_two-speed_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_two-speed_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FWestinghouse%2FTWO-SPEED%20SIDE%20PICK.mp4?alt=media&token=987ce14e-2751-4302-95d8-dbc5b9b0229e",
       "available": true
     },
     {
@@ -423,7 +423,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "bi-parting_freight",
       "title": "BI-PARTING FREIGHT",
-      "url": "https://rescue.tuzzco.net/BI-PARTING/bi-parting_freight.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FBiParting%2FBI-PARTING%20FREIGHT.mp4?alt=media&token=104db54d-e53e-44b1-b179-1564d5e17e08",
       "available": true
     },
     {
@@ -432,7 +432,7 @@
       "doorTypeId": "Center-Opening",
       "clipId": "gal_center_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_center_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FGAL%2FCENTER%20TOP%20PICK.mp4?alt=media&token=d7eb389e-e20a-48b8-a519-34aad54a799e",
       "available": true
     },
     {
@@ -441,7 +441,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "gal_single_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_single_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FGAL%2FSINGLE%20SIDE%20PICK.mp4?alt=media&token=c8fa5801-d1e0-4835-94d0-baf86d696ffb",
       "available": true
     },
     {
@@ -450,7 +450,7 @@
       "doorTypeId": "Single-Slide",
       "clipId": "gal_single_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_single_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FGAL%2FSINGLE%20TOP%20PICK.mp4?alt=media&token=124c88fe-b177-422a-a4ec-e18cc73ea149",
       "available": true
     },
     {
@@ -459,7 +459,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "gal_two-speed_side",
       "title": "SIDE PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_side.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FGAL%2FTWO-SPEED%20%20SIDE%20PICK.mp4?alt=media&token=f112914c-9562-4321-843d-aafe55d81701",
       "available": true
     },
     {
@@ -468,7 +468,7 @@
       "doorTypeId": "Two-Speed",
       "clipId": "gal_two-speed_top",
       "title": "TOP PICK",
-      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_top.mp4",
+      "url": "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.firebasestorage.app/o/videos%2FGAL%2FTWO-SPEED%20%20TOP%20PICK.mp4?alt=media&token=165ff79b-c08d-4f49-aded-0b46ae76f15b",
       "available": true
     },
     {
