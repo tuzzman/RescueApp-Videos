@@ -1,420 +1,420 @@
-﻿{
-    "version":  "2025-12-18T10-41-35-432Z",
-    "generatedAt":  "2025-12-18T10:41:35.432Z",
-    "items":  [
-                  {
-                      "id":  "Center-Opening__otis-gen1-center-side",
-                      "manufacturer":  "Otis (Gen 1)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "otis-gen1-center-side",
-                      "title":  "Side Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen1_center_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__otis_gen1_center_Opt2",
-                      "manufacturer":  "Otis (Gen 1)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "otis_gen1_center_Opt2",
-                      "title":  "Option 2",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen1_center_opt2.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__otis_gen1_single_side",
-                      "manufacturer":  "Otis (Gen 1)",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "otis_gen1_single_side",
-                      "title":  "Side Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen1_single_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__Otis_Gen1_Two-Speed_Side",
-                      "manufacturer":  "Otis (Gen 1)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "Otis_Gen1_Two-Speed_Side",
-                      "title":  "Side Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen1_twospeed_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__otis_gen2_center_double-lock_rake",
-                      "manufacturer":  "Otis (Gen 2)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "otis_gen2_center_double-lock_rake",
-                      "title":  "Double Lock Rake Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen2_center_doublelock_rake.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__otis_gen2_center_rake",
-                      "manufacturer":  "Otis (Gen 2)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "otis_gen2_center_rake",
-                      "title":  "Rake Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen2_center_rake.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__otis_gen2_single_rake",
-                      "manufacturer":  "Otis (Gen 2)",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "otis_gen2_single_rake",
-                      "title":  "Rake",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen2_single_rake.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__otis_gen2_two-speed_rake",
-                      "manufacturer":  "Otis (Gen 2)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "otis_gen2_two-speed_rake",
-                      "title":  "Rake Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen2_twospeed_rake.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__otis_gen2_two-speed_top_opt",
-                      "manufacturer":  "Otis (Gen 2)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "otis_gen2_two-speed_top_opt",
-                      "title":  "Top Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_gen2_twospeed_top_opt2.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__kone_center_center_pick",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "kone_center_center_pick",
-                      "title":  "Center Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_center_centerpick.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__kone_single_rt_hook",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "kone_single_rt_hook",
-                      "title":  "Right Hook",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_single_slide_rt_hook.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__kone_single_lt-hook",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "kone_single_lt-hook",
-                      "title":  "Left Hook",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_single_slide_lt_hook.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__gal_center_side",
-                      "manufacturer":  "GAL",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "gal_center_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/GAL%2Fgal_center_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__kone_single_rt_side",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "kone_single_rt_side",
-                      "title":  "Right Side Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_single_slide_rt_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__kone_two-speed_lt_hook",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "kone_two-speed_lt_hook",
-                      "title":  "Left Hook",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_two_speed_lt_hook.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__kone_two-speed_lt_side",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "kone_two-speed_lt_side",
-                      "title":  "Left Side Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_two_speed_lt_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__kone_two-speed_rt_hook",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "kone_two-speed_rt_hook",
-                      "title":  "Right Hook",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_two_speed_rt_hook.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__kone_two-speed_rt_side",
-                      "manufacturer":  "Kone",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "kone_two-speed_rt_side",
-                      "title":  "Right Side Pick",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/KONE%2Fkone_two_speed_rt_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__otis_center_linkage_side",
-                      "manufacturer":  "Otis (w/Linkage)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "otis_center_linkage_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/OTIS%2Fotis_center_linkage_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__schindler_gen1_center_top",
-                      "manufacturer":  "Schindler (Gen 1)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "schindler_gen1_center_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen1_center_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__schindler_gen1_two-speed_top",
-                      "manufacturer":  "Schindler (Gen 1)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "schindler_gen1_two-speed_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen1_two-speed_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__schindler_gen1_single_top",
-                      "manufacturer":  "Schindler (Gen 1)",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "schindler_gen1_single_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen1_single_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__schindler_gen2_center_top",
-                      "manufacturer":  "Schindler (Gen 2)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "schindler_gen2_center_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen2_center_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__schindler_gen2_center_side_opt2",
-                      "manufacturer":  "Schindler (Gen 2)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "schindler_gen2_center_side_opt2",
-                      "title":  "SIDE PICK OPT2",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen2_center_side_opt_2.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__schindler_gen3_two-speed_Konehook",
-                      "manufacturer":  "Schindler (Gen 3)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "schindler_gen3_two-speed_Konehook",
-                      "title":  "KONE HOOK PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen3_two-speed_kone_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__schindler_gen3_two-speed_rake",
-                      "manufacturer":  "Schindler (Gen 3)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "schindler_gen3_two-speed_rake",
-                      "title":  "RAKE PICK (ALTERNATE METHOD)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen3_two-speed_rake.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__schindler_gen4_two-speed_side",
-                      "manufacturer":  "Schindler (Gen 4)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "schindler_gen4_two-speed_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen4_side_pick.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__schindler_gen4_two-speed_side_opt2",
-                      "manufacturer":  "Schindler (Gen 4)",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "schindler_gen4_two-speed_side_opt2",
-                      "title":  "SIDE PICK (OPT2)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/SCHINDLER%2Fschindler_gen4_side_opt_2.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__thyssenkrupp_gen2_center_w_plate_top",
-                      "manufacturer":  "ThyssenKrupp (Gen 2)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "thyssenkrupp_gen2_center_w_plate_top",
-                      "title":  "TOP PICK (w/plate)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/THYSSENKRUPP%2Fthyssenkrupp_gen2_center_w__plate_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__thyssenkrupp_gen3_center_hook",
-                      "manufacturer":  "ThyssenKrupp (Gen 3)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "thyssenkrupp_gen3_center_hook",
-                      "title":  "HOOK PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/THYSSENKRUPP%2Fthyssenkrupp-gen3_center_hook.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__mitsubishi_center_no_linkage_top",
-                      "manufacturer":  "Mitsubishi",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "mitsubishi_center_no_linkage_top",
-                      "title":  "TOP PICK (NO LINKAGE)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/MITSUBISHI%2Fmitsubishi_center_no_linkage_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__mitsubishi_center_w_linkage_top",
-                      "manufacturer":  "Mitsubishi",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "mitsubishi_center_w_linkage_top",
-                      "title":  "TOP PICK (w/Linkage)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/MITSUBISHI%2Fmitsubishi_center_w__linkage_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__mitsubishi_center_w_linkage_side",
-                      "manufacturer":  "Mitsubishi",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "mitsubishi_center_w_linkage_side",
-                      "title":  "SIDE PICK (W/LINKAGE)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/MITSUBISHI%2Fmitsubishi_center_w__linkage_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__mitsubishi_two-speed_w_linkage_top",
-                      "manufacturer":  "Mitsubishi",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "mitsubishi_two-speed_w_linkage_top",
-                      "title":  "TOP PICK (W/LINKAGE)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/MITSUBISHI%2Fmitsubishi_two-speed_w__linkage_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__mitsubishi_two-speed_w_linkage_side",
-                      "manufacturer":  "Mitsubishi",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "mitsubishi_two-speed_w_linkage_side",
-                      "title":  "SIDE PICK (W/LINKAGE)",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/MITSUBISHI%2Fmitsubishi_two-speed_w__linkage_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__fujitec_center_side",
-                      "manufacturer":  "Fujitec",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "fujitec_center_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/FUJITEC%2Ffujitec_center_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__westinghouse_center_side",
-                      "manufacturer":  "Westinghouse",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "westinghouse_center_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/WESTINGHOUSE%2Fwestinghouse_center_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__westinghouse_center_top",
-                      "manufacturer":  "Westinghouse",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "westinghouse_center_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/WESTINGHOUSE%2Fwestinghouse_center_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__westinghouse_two-speed_side",
-                      "manufacturer":  "Westinghouse",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "westinghouse_two-speed_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/WESTINGHOUSE%2Fwestinghouse_two-speed_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__bi-parting_freight",
-                      "manufacturer":  "Bi-Parting Freight",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "bi-parting_freight",
-                      "title":  "BI-PARTING FREIGHT",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/BI-PARTING%2Fbi-parting_freight.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__gal_center_top",
-                      "manufacturer":  "GAL",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "gal_center_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/GAL%2Fgal_center_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__gal_single_side",
-                      "manufacturer":  "GAL",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "gal_single_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/GAL%2Fgal_single_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Single-Slide__gal_single_top",
-                      "manufacturer":  "GAL",
-                      "doorTypeId":  "Single-Slide",
-                      "clipId":  "gal_single_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/GAL%2Fgal_single_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__gal_two-speed_side",
-                      "manufacturer":  "GAL",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "gal_two-speed_side",
-                      "title":  "SIDE PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/GAL%2Fgal_two-speed_side.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Two-Speed__gal_two-speed_top",
-                      "manufacturer":  "GAL",
-                      "doorTypeId":  "Two-Speed",
-                      "clipId":  "gal_two-speed_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/GAL%2Fgal_two-speed_top.mp4?alt=media",
-                      "available":  true
-                  },
-                  {
-                      "id":  "Center-Opening__thyssenkrupp_center_no-plate_top",
-                      "manufacturer":  "ThyssenKrupp (Gen 1)",
-                      "doorTypeId":  "Center-Opening",
-                      "clipId":  "thyssenkrupp_center_no-plate_top",
-                      "title":  "TOP PICK",
-                      "url":  "https://firebasestorage.googleapis.com/v0/b/elevatorrescueapp-d143d.appspot.com/o/THYSSENKRUPP%2Fthyssenkrupp_gen1_center_no_plate_top.mp4?alt=media",
-                      "available":  true
-                  }
-              ]
+{
+  "version": "2025-12-18T10-41-35-432Z",
+  "generatedAt": "2025-12-18T10:41:35.432Z",
+  "items": [
+    {
+      "id": "Center-Opening__otis-gen1-center-side",
+      "manufacturer": "Otis (Gen 1)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "otis-gen1-center-side",
+      "title": "Side Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_center_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__otis_gen1_center_Opt2",
+      "manufacturer": "Otis (Gen 1)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "otis_gen1_center_Opt2",
+      "title": "Option 2",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_center_opt2.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__otis_gen1_single_side",
+      "manufacturer": "Otis (Gen 1)",
+      "doorTypeId": "Single-Slide",
+      "clipId": "otis_gen1_single_side",
+      "title": "Side Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_single_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__Otis_Gen1_Two-Speed_Side",
+      "manufacturer": "Otis (Gen 1)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "Otis_Gen1_Two-Speed_Side",
+      "title": "Side Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen1_twospeed_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__otis_gen2_center_double-lock_rake",
+      "manufacturer": "Otis (Gen 2)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "otis_gen2_center_double-lock_rake",
+      "title": "Double Lock Rake Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_center_doublelock_rake.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__otis_gen2_center_rake",
+      "manufacturer": "Otis (Gen 2)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "otis_gen2_center_rake",
+      "title": "Rake Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_center_rake.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__otis_gen2_single_rake",
+      "manufacturer": "Otis (Gen 2)",
+      "doorTypeId": "Single-Slide",
+      "clipId": "otis_gen2_single_rake",
+      "title": "Rake",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_single_rake.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__otis_gen2_two-speed_rake",
+      "manufacturer": "Otis (Gen 2)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "otis_gen2_two-speed_rake",
+      "title": "Rake Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_twospeed_rake.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__otis_gen2_two-speed_top_opt",
+      "manufacturer": "Otis (Gen 2)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "otis_gen2_two-speed_top_opt",
+      "title": "Top Pick",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_gen2_twospeed_top_opt2.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__kone_center_center_pick",
+      "manufacturer": "Kone",
+      "doorTypeId": "Center-Opening",
+      "clipId": "kone_center_center_pick",
+      "title": "Center Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_center_centerpick.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_rt_hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_rt_hook",
+      "title": "Right Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_lt-hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_lt-hook",
+      "title": "Left Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_lt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__gal_center_side",
+      "manufacturer": "GAL",
+      "doorTypeId": "Center-Opening",
+      "clipId": "gal_center_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/GAL/gal_center_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__kone_single_rt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Single-Slide",
+      "clipId": "kone_single_rt_side",
+      "title": "Right Side Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_single_slide_rt_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_lt_hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_lt_hook",
+      "title": "Left Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_lt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_lt_side",
+      "title": "Left Side Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_lt_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_rt_hook",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_rt_hook",
+      "title": "Right Hook",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__kone_two-speed_rt_side",
+      "manufacturer": "Kone",
+      "doorTypeId": "Two-Speed",
+      "clipId": "kone_two-speed_rt_side",
+      "title": "Right Side Pick",
+      "url": "https://rescue.tuzzco.net/KONE/kone_two_speed_rt_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__otis_center_linkage_side",
+      "manufacturer": "Otis (w/Linkage)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "otis_center_linkage_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/OTIS/otis_center_linkage_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__schindler_gen1_center_top",
+      "manufacturer": "Schindler (Gen 1)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "schindler_gen1_center_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_center_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__schindler_gen1_two-speed_top",
+      "manufacturer": "Schindler (Gen 1)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "schindler_gen1_two-speed_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_two-speed_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__schindler_gen1_single_top",
+      "manufacturer": "Schindler (Gen 1)",
+      "doorTypeId": "Single-Slide",
+      "clipId": "schindler_gen1_single_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen1_single_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__schindler_gen2_center_top",
+      "manufacturer": "Schindler (Gen 2)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "schindler_gen2_center_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen2_center_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__schindler_gen2_center_side_opt2",
+      "manufacturer": "Schindler (Gen 2)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "schindler_gen2_center_side_opt2",
+      "title": "SIDE PICK OPT2",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen2_center_side_opt_2.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__schindler_gen3_two-speed_Konehook",
+      "manufacturer": "Schindler (Gen 3)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "schindler_gen3_two-speed_Konehook",
+      "title": "KONE HOOK PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_kone_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__schindler_gen3_two-speed_rake",
+      "manufacturer": "Schindler (Gen 3)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "schindler_gen3_two-speed_rake",
+      "title": "RAKE PICK (ALTERNATE METHOD)",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen3_two-speed_rake.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__schindler_gen4_two-speed_side",
+      "manufacturer": "Schindler (Gen 4)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "schindler_gen4_two-speed_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_pick.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__schindler_gen4_two-speed_side_opt2",
+      "manufacturer": "Schindler (Gen 4)",
+      "doorTypeId": "Two-Speed",
+      "clipId": "schindler_gen4_two-speed_side_opt2",
+      "title": "SIDE PICK (OPT2)",
+      "url": "https://rescue.tuzzco.net/SCHINDLER/schindler_gen4_side_opt_2.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__thyssenkrupp_gen2_center_w_plate_top",
+      "manufacturer": "ThyssenKrupp (Gen 2)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "thyssenkrupp_gen2_center_w_plate_top",
+      "title": "TOP PICK (w/plate)",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen2_center_w__plate_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__thyssenkrupp_gen3_center_hook",
+      "manufacturer": "ThyssenKrupp (Gen 3)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "thyssenkrupp_gen3_center_hook",
+      "title": "HOOK PICK",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp-gen3_center_hook.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__mitsubishi_center_no_linkage_top",
+      "manufacturer": "Mitsubishi",
+      "doorTypeId": "Center-Opening",
+      "clipId": "mitsubishi_center_no_linkage_top",
+      "title": "TOP PICK (NO LINKAGE)",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_no_linkage_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__mitsubishi_center_w_linkage_top",
+      "manufacturer": "Mitsubishi",
+      "doorTypeId": "Center-Opening",
+      "clipId": "mitsubishi_center_w_linkage_top",
+      "title": "TOP PICK (w/Linkage)",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_w__linkage_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__mitsubishi_center_w_linkage_side",
+      "manufacturer": "Mitsubishi",
+      "doorTypeId": "Center-Opening",
+      "clipId": "mitsubishi_center_w_linkage_side",
+      "title": "SIDE PICK (W/LINKAGE)",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_center_w__linkage_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__mitsubishi_two-speed_w_linkage_top",
+      "manufacturer": "Mitsubishi",
+      "doorTypeId": "Two-Speed",
+      "clipId": "mitsubishi_two-speed_w_linkage_top",
+      "title": "TOP PICK (W/LINKAGE)",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_two-speed_w__linkage_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__mitsubishi_two-speed_w_linkage_side",
+      "manufacturer": "Mitsubishi",
+      "doorTypeId": "Two-Speed",
+      "clipId": "mitsubishi_two-speed_w_linkage_side",
+      "title": "SIDE PICK (W/LINKAGE)",
+      "url": "https://rescue.tuzzco.net/MITSUBISHI/mitsubishi_two-speed_w__linkage_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__fujitec_center_side",
+      "manufacturer": "Fujitec",
+      "doorTypeId": "Center-Opening",
+      "clipId": "fujitec_center_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/FUJITEC/fujitec_center_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__westinghouse_center_side",
+      "manufacturer": "Westinghouse",
+      "doorTypeId": "Center-Opening",
+      "clipId": "westinghouse_center_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_center_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__westinghouse_center_top",
+      "manufacturer": "Westinghouse",
+      "doorTypeId": "Center-Opening",
+      "clipId": "westinghouse_center_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_center_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__westinghouse_two-speed_side",
+      "manufacturer": "Westinghouse",
+      "doorTypeId": "Two-Speed",
+      "clipId": "westinghouse_two-speed_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/WESTINGHOUSE/westinghouse_two-speed_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__bi-parting_freight",
+      "manufacturer": "Bi-Parting Freight",
+      "doorTypeId": "Center-Opening",
+      "clipId": "bi-parting_freight",
+      "title": "BI-PARTING FREIGHT",
+      "url": "https://rescue.tuzzco.net/BI-PARTING/bi-parting_freight.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__gal_center_top",
+      "manufacturer": "GAL",
+      "doorTypeId": "Center-Opening",
+      "clipId": "gal_center_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/GAL/gal_center_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__gal_single_side",
+      "manufacturer": "GAL",
+      "doorTypeId": "Single-Slide",
+      "clipId": "gal_single_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/GAL/gal_single_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Single-Slide__gal_single_top",
+      "manufacturer": "GAL",
+      "doorTypeId": "Single-Slide",
+      "clipId": "gal_single_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/GAL/gal_single_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__gal_two-speed_side",
+      "manufacturer": "GAL",
+      "doorTypeId": "Two-Speed",
+      "clipId": "gal_two-speed_side",
+      "title": "SIDE PICK",
+      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_side.mp4",
+      "available": true
+    },
+    {
+      "id": "Two-Speed__gal_two-speed_top",
+      "manufacturer": "GAL",
+      "doorTypeId": "Two-Speed",
+      "clipId": "gal_two-speed_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/GAL/gal_two-speed_top.mp4",
+      "available": true
+    },
+    {
+      "id": "Center-Opening__thyssenkrupp_center_no-plate_top",
+      "manufacturer": "ThyssenKrupp (Gen 1)",
+      "doorTypeId": "Center-Opening",
+      "clipId": "thyssenkrupp_center_no-plate_top",
+      "title": "TOP PICK",
+      "url": "https://rescue.tuzzco.net/THYSSENKRUPP/thyssenkrupp_gen1_center_no_plate_top.mp4",
+      "available": true
+    }
+  ]
 }
