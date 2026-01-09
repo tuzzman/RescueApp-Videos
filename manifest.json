@@ -1,7 +1,12 @@
 {
-  "version": "2026-01-09T04-49-58-886Z",
-  "generatedAt": "2026-01-09T04:49:58.886Z",
+  "version": "2026-01-09T22-49-49-336Z",
+  "generatedAt": "2026-01-09T22:49:49.336Z",
   "manufacturers": [
+    {
+      "name": "GAL",
+      "id": "gal",
+      "generations": []
+    },
     {
       "name": "OTIS",
       "id": "otis",
@@ -10,11 +15,6 @@
         "Gen 2",
         "w/Linkage"
       ]
-    },
-    {
-      "name": "GAL",
-      "id": "gal",
-      "generations": []
     },
     {
       "name": "Kone",
@@ -30,7 +30,8 @@
         "Gen 2",
         "Gen 3",
         "Gen 4"
-      ]
+      ],
+      "pro": true
     },
     {
       "name": "ThyssenKrupp",
@@ -45,7 +46,8 @@
     {
       "name": "Mitsubishi",
       "id": "mitsubishi",
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Westinghouse",
@@ -62,7 +64,8 @@
     {
       "name": "Bi-Parting Freight",
       "id": "bi-parting-freight",
-      "generations": []
+      "generations": [],
+      "pro": true
     }
   ],
   "items": [
