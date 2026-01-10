@@ -1,6 +1,6 @@
 {
-  "version": "2026-01-10T00-06-56-999Z",
-  "generatedAt": "2026-01-10T00:06:56.999Z",
+  "version": "2026-01-10T00-08-41-362Z",
+  "generatedAt": "2026-01-10T00:08:41.362Z",
   "manufacturers": [
     {
       "name": "GAL",
@@ -20,53 +20,53 @@
     {
       "name": "Kone",
       "id": "kone",
-      "requiresSubscription": true,
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Schindler",
       "id": "schindler",
-      "requiresSubscription": true,
       "generations": [
         "Gen 1",
         "Gen 2",
         "Gen 3",
         "Gen 4"
-      ]
+      ],
+      "pro": true
     },
     {
       "name": "ThyssenKrupp",
       "id": "thyssenkrupp",
-      "requiresSubscription": true,
       "generations": [
         "Gen 1",
         "Gen 2",
         "Gen 3"
-      ]
+      ],
+      "pro": true
     },
     {
       "name": "Mitsubishi",
       "id": "mitsubishi",
-      "requiresSubscription": true,
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Westinghouse",
       "id": "westinghouse",
-      "requiresSubscription": true,
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Fujitec",
       "id": "fujitec",
-      "requiresSubscription": true,
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Bi-Parting Freight",
       "id": "bi-parting-freight",
-      "requiresSubscription": true,
-      "generations": []
+      "generations": [],
+      "pro": true
     }
   ],
   "items": [
