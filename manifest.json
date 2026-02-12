@@ -1,6 +1,6 @@
 {
-  "version": "2026-02-02T08-23-22-734Z",
-  "generatedAt": "2026-02-02T08:23:22.734Z",
+  "version": "2026-02-12T04-43-57-664Z",
+  "generatedAt": "2026-02-12T04:43:57.664Z",
   "manufacturers": [
     {
       "name": "GAL",
@@ -30,7 +30,8 @@
         "Gen 2",
         "Gen 3",
         "Gen 4"
-      ]
+      ],
+      "pro": true
     },
     {
       "name": "ThyssenKrupp",
