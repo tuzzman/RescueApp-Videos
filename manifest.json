@@ -1,6 +1,6 @@
 {
-  "version": "2026-02-12T04-43-57-664Z",
-  "generatedAt": "2026-02-12T04:43:57.664Z",
+  "version": "2026-05-06T05-07-52-352Z",
+  "generatedAt": "2026-05-06T05:07:52.352Z",
   "manufacturers": [
     {
       "name": "GAL",
@@ -10,17 +10,18 @@
     {
       "name": "OTIS",
       "id": "otis",
-      "requiresSubscription": false,
       "generations": [
         "Gen 1",
         "Gen 2",
         "w/Linkage"
-      ]
+      ],
+      "pro": true
     },
     {
       "name": "Kone",
       "id": "kone",
-      "generations": []
+      "generations": [],
+      "pro": true
     },
     {
       "name": "Schindler",
